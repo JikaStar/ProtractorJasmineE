@@ -1,0 +1,22 @@
+{
+  "name": "cybframework",
+  "version": "1.0.0",
+  "description": "This is for CybFramework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "CybStar",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "exceljs": "^2.0.1",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-beautiful-reporter": "^1.3.1"
+  }
+}
